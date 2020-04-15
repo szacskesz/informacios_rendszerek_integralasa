@@ -1,12 +1,11 @@
 # Információs rendszerek integrálása beadandó
 Szilvási Attila - PILPA5
-
-Feladat
 _____________
+Feladat:
 Egy könyvtár (könyv kölcsönző) készítése.
-
-#Backend
+_____________
+Backend:
 Spring framework
-
-#Frontend
+_____________
+Frontend:
 Angular-9 + Angular Material
