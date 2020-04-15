@@ -13,7 +13,7 @@ Spring framework használata a REST API elkészítése
 
 
 Frontend:
-Angular-9 + Angular Material használata a web kliens elkészítéséhez.
+Angular-9 + Angular Material használata a webkliens elkészítéséhez.
 
 
 DB:
@@ -26,4 +26,10 @@ MySQL használta az adatbázis elkészítéséhez.
   -Hozzunk létre és adjunk megfelelő jogokat az adatbázishoz.
   
 2. Backend szerver (REST API)
-  -
+  -A backend projeket importáljuk az IDE-be, ennek fel kell ismernie, hogy mave -nes projekt.
+  -A main függvényt tartalmazó osztály futtatásával elindul a szerver.
+  
+3. Frontend (Webkliens)
+  -NPM csomagkezelő telepítése szükséges.
+  -Futtassuk az NPM INSTALL -t illetve az NPM START-ot, igy elindul a webkliensünk.
+  -http://localhost:4200 címen érhető el a kliens.
