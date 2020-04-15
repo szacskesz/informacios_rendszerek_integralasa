@@ -21,9 +21,9 @@ MySQL használta az adatbázis elkészítéséhez.
 
 
 1. Adatbázis elindítása
-  -Futtatásra kész MySQL szerver legyen telepítve a rendszeren.
-  -Indítsjuk el, majd futtasuk le rajta az SQL scripteket.
-  -Hozzunk létre és adjunk megfelelő jogokat az adatbázishoz.
+  *Futtatásra kész MySQL szerver legyen telepítve a rendszeren.
+  *Indítsjuk el, majd futtasuk le rajta az SQL scripteket.
+  *Hozzunk létre és adjunk megfelelő jogokat az adatbázishoz.
   
 2. Backend szerver (REST API)
   -A backend projeket importáljuk az IDE-be, ennek fel kell ismernie, hogy mave -nes projekt.
