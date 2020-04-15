@@ -1,7 +1,8 @@
 # Információs rendszerek integrálása beadandó
 Szilvási Attila - PILPA5
 
-#Feladat
+Feladat
+_____________
 Egy könyvtár (könyv kölcsönző) készítése.
 
 #Backend
