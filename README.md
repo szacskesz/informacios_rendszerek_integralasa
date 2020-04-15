@@ -3,6 +3,8 @@ Szilvási Attila - PILPA5
 _____________
 Feladat:
 Egy könyvtár (könyv kölcsönző) készítése.
+
+Készítsen REST API-t, amely egy könyvtár adatbázisát használja. Készítsen egy Angular klienst, amely könyveket tud hozzáadni az adatbázishoz. Készítsen, a kölcsönzéshez használható funkciót, amely a könyveket kikölcsönzött, illetve visszavitt státuszra állítja. Listázza a kikölcsönzött és kölcsönözhető könyveket.
 _____________
 Backend:
 Spring framework
