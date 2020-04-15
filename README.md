@@ -18,3 +18,12 @@ Angular-9 + Angular Material használata a web kliens elkészítéséhez.
 
 DB:
 MySQL használta az adatbázis elkészítéséhez.
+
+
+1. Adatbázis elindítása
+  -Futtatásra kész MySQL szerver legyen telepítve a rendszeren.
+  -Indítsjuk el, majd futtasuk le rajta az SQL scripteket.
+  -Hozzunk létre és adjunk megfelelő jogokat az adatbázishoz.
+  
+2. Backend szerver (REST API)
+  -
