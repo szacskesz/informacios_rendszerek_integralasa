@@ -1,1 +1,2 @@
-# informacios_rendszerek_integralasa
+# Információs rendszerek integrálása beadandó
+Szilvási Attila - PILPA5
