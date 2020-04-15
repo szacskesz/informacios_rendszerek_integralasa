@@ -9,3 +9,6 @@ Spring framework
 _____________
 Frontend:
 Angular-9 + Angular Material
+_____________
+DB:
+MySQL
